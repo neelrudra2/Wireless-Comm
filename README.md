@@ -29,3 +29,6 @@ The Wireless Modem Simulation Project is a comprehensive simulation tool designe
 * Configuration: Configures the LTE modem with necessary parameters.</br>
 * Transmission: Simulates data transmission with encoding.</br>
 * Reception: Demonstrates data reception with decoding.
+
+<h2>Project Screenshot:</h2>
+![WCOM](https://github.com/user-attachments/assets/a4d93b3b-e268-419a-ac56-bfca1a62ab32)

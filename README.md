@@ -1,4 +1,4 @@
-<h1>Wireless Modem Simulation Project</h1>
+<h1>Wireless Modem Simulation</h1>
 
 <h2>Overview</h2>
 The Wireless Modem Simulation Project is a comprehensive simulation tool designed to model and demonstrate the behavior of different wireless modems, including CDMA, GSM, UMTS, and LTE. This project simulates real-time data transmission and reception using these modem technologies, providing insights into their functionalities and data handling mechanisms.
@@ -29,5 +29,3 @@ The Wireless Modem Simulation Project is a comprehensive simulation tool designe
 * Configuration: Configures the LTE modem with necessary parameters.</br>
 * Transmission: Simulates data transmission with encoding.</br>
 * Reception: Demonstrates data reception with decoding.
-
-<h2>Project Screenshot:</h2>

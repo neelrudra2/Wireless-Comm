@@ -31,4 +31,5 @@ The Wireless Modem Simulation Project is a comprehensive simulation tool designe
 * Reception: Demonstrates data reception with decoding.
 
 <h2>Project Screenshot:</h2>
-![WC](https://github.com/user-attachments/assets/fecf37b6-5128-41f4-8fbd-43226917f030)
+
+![DCC](https://github.com/user-attachments/assets/fa78dfb2-51d6-4381-be3d-3d7ff8c02588)
